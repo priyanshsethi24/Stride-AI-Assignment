@@ -9,27 +9,7 @@ An end-to-end document processing application built using **FastAPI** for backen
 
 ---
 
-## 2. Project Structure
-Stride AI Assignment/
-├── backend/
-│   ├── app.py                  # FastAPI backend
-│   ├── extractor.py            # Table extraction logic (Camelot, OCR, etc.)
-│   └── requirements.txt        # Backend dependencies
-├── frontend/
-│   ├── workflow_canvas/        # No-code or HTML-based workflow UI
-│   └── mockups.png             # Workflow diagram or UI snapshot
-├── streamlit_app/
-│   ├── app.py                  # Streamlit front-end app
-│   └── helpers.py              # API helper functions for Streamlit
-├── sample_docs/
-│   ├── invoice.pdf             # Test sample
-│   └── report.docx             # Test sample
-├── docs/
-│   ├── flow_diagram.png        # Architecture flow diagram
-│   └── test_run.gif            # Demo of the app in use
-└── README.md                   # Main documentation
-
-## 3. Environment Setup
+## 2. Environment Setup
 #### 1. Install Python 3.10+
 
 https://www.python.org/downloads/
@@ -48,15 +28,15 @@ Copy
 Edit
 pip install -r backend/requirements.txt
 
-## 4. Setup and running the App
-#### 🔹 Start the FastAPI backend command
+## 3. Setup and running the App
+#### a) Start the FastAPI backend command
 cd backend
 uvicorn app:app --reload
 
 By default, runs at:
 http://127.0.0.1:8000
 
-#### 🔹 Start the Streamlit frontend command
+#### b) Start the Streamlit frontend command
 bash
 Copy
 Edit
@@ -65,7 +45,7 @@ streamlit run app.py
 This opens the UI at:
 http://localhost:8501
 
-## 5. Sample Usage
+## 4. Sample Usage
 
 1. Upload a file (invoice.pdf or report.docx).
 
