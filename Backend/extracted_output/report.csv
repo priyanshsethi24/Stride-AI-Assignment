@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6
+Employee ID,Name,Department,Designation,Experience (Years),Salary ($),Status
+E1000,Employee 1,Finance,Intern,14.8,46166,Active
+E1001,Employee 2,HR,Executive,3.0,58738,Active
+E1002,Employee 3,Marketing,Manager,12.7,41695,Resigned
+E1003,Employee 4,Marketing,Analyst,13.5,81418,Active
+E1004,Employee 5,Marketing,Manager,3.4,113444,On Leave
+E1005,Employee 6,Engineering,Analyst,1.4,45086,On Leave
+E1006,Employee 7,Support,Manager,11.2,88448,Resigned
+E1007,Employee 8,Marketing,Developer,4.3,99650,Active
+E1008,Employee 9,Sales,Intern,12.1,85330,Active
+E1009,Employee 10,Finance,Analyst,3.0,42366,Active
+E1010,Employee 11,Sales,Executive,6.0,45129,Active
+E1011,Employee 12,Engineering,Developer,2.4,50220,Resigned
+E1012,Employee 13,Sales,Analyst,9.8,110497,Resigned
+E1013,Employee 14,Sales,Manager,3.4,93217,Active
+E1014,Employee 15,Support,Analyst,5.9,93683,Resigned
+E1015,Employee 16,Finance,Developer,7.4,40805,On Leave
+E1016,Employee 17,Sales,Intern,13.6,108295,Resigned
+E1017,Employee 18,Support,Executive,11.3,57357,Resigned
+E1018,Employee 19,Sales,Developer,11.1,61524,Active
+E1019,Employee 20,Support,Intern,3.8,91132,Active
+E1020,Employee 21,Engineering,Analyst,9.8,63606,Resigned
+E1021,Employee 22,Engineering,Executive,14.8,117130,On Leave
+E1022,Employee 23,Sales,Intern,14.5,105414,Active
+E1023,Employee 24,Support,Analyst,12.3,92539,Resigned
+E1024,Employee 25,Marketing,Intern,2.5,74776,Resigned

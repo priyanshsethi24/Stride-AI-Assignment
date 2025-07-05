@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6
+Product,Category,Quantity,Unit Price,Total,In Stock,Rating
+Item 1,Fruit,10,3.5,35.0,Yes,4.5
+Item 2,Veg,15,2.0,30.0,Yes,4.0
+Item 3,Snack,7,1.5,10.5,No,3.8
+Item 4,Drink,25,5.0,125.0,Yes,4.9
+Item 5,Fruit,30,3.0,90.0,Yes,4.2
+Item 6,Grain,12,2.5,30.0,No,3.5
+Item 7,Veg,5,1.8,9.0,Yes,4.1
+Item 8,Fruit,20,3.2,64.0,No,3.9
+Item 9,Meat,9,4.0,36.0,Yes,4.3
+Item 10,Dairy,14,6.5,91.0,No,4.6
+Item 11,Fruit,16,3.3,52.8,Yes,4.4
+Item 12,Drink,8,2.9,23.2,Yes,3.7
